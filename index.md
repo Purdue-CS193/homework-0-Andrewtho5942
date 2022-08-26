@@ -3,4 +3,6 @@
 Things I like about CS 193:
 - The course leads are cool
 - It is about computer science
-- 193 is a prime number
+- We get to learn about things
+- Things like learning how to use github
+- 193 is a prime number, that's pretty neat
