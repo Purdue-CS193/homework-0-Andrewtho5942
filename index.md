@@ -18,6 +18,11 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+Things I like about CS 193:
+- The course leads are cool
+- It is about computer science
+- 193 is a prime number
+
 1. Numbered
 2. List
 
